@@ -1,0 +1,29 @@
+Head:     master first draft
+Merge:    origin/master first draft
+
+Unstaged changes (1)
+modified   plan.org
+@@ -1,7 +1,12 @@
+ * My Plan
+-** TODO  Get Car Registered
+-*** TODO  Get Registration info
+-** TODO  Renew Drivers License
+-*** TODO Make DMV Appointment
++** TODO  Get Car Registered X
++*** TODO  Get Registration info X
++** TODO  Renew Drivers License X
++*** TODO Make DMV Appointment X
+ ** TODO  Get funds
++*** TODO Sell Watch
+ ** TODO Replace Tire
++** TODO Up to date insurance
++** TODO Gas in Vehicle
++** TODO Find Temp Employment
++[[https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf] [GNU Emacs Ref]]
+
+Recent commits
+a99c74f master origin/master first draft
+ceda722 first commit
+f69e3b6 New Plan
+18405dd first commit
+
